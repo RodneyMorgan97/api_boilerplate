@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+    nodeserver:
+        build:
+            context: ./app
+        ports:
+            - "8080:8080"
+    nginx:
+        restart: always
+        build:
+            context: ./nginx
+        ports:
+            - "443:443"
+        volumes:
+            - "/etc/pki/nginx:/etc/pki/nginx"
+            - "/etc/pki/nginx/private:/etc/pki/nginx/private"

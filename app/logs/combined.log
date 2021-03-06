@@ -1,0 +1,13 @@
+{"message":"test","level":"info","timestamp":"2021-03-05T16:02:47.634Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:26:37.022Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:27:35.544Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:27:50.468Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:29:46.139Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:31:03.467Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:31:22.855Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T16:35:24.985Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET"},"level":"info","timestamp":"2021-03-05T18:43:32.582Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET","body":[{"company":"201","sku":"0216011050","quantity":"10","customerNumber":"0","currencyCode":""},{"company":"201","sku":"116005500","quantity":"10000","customerNumber":"113805","currencyCode":""}]},"level":"info","timestamp":"2021-03-05T18:44:35.665Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET","body":[{"company":"201","sku":"0216011050","quantity":"10","customerNumber":"0","currencyCode":""},{"company":"201","sku":"116005500","quantity":"10000","customerNumber":"113805","currencyCode":""}]},"level":"info","timestamp":"2021-03-05T18:54:28.255Z"}
+{"message":{"endpoint":"/PRMS/Inventory","type":"GET","body":[{"company":"201","sku":"0216011050","quantity":"10","customerNumber":"0","currencyCode":""},{"company":"201","sku":"116005500","quantity":"10000","customerNumber":"113805","currencyCode":""}]},"level":"info","timestamp":"2021-03-05T18:57:35.648Z"}
+{"message":{"endpoint":"/","type":"GET","body":[{"company":"201","sku":"0216011050","quantity":"10","customerNumber":"0","currencyCode":""},{"company":"201","sku":"116005500","quantity":"10000","customerNumber":"113805","currencyCode":""}]},"level":"info","timestamp":"2021-03-05T18:57:52.041Z"}
